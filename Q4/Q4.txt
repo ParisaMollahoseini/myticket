@@ -1,0 +1,12 @@
+client post
+total trafic=18830 bytes
+trafic of A to B=7950
+trafic of B to A=10880
+connection no=14
+ticket no=26
+client get
+total trafic=11958 bytes
+trafic of A to B=5032
+trafic of B to A=6926
+connection no=11
+ticket no=22
